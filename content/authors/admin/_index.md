@@ -51,9 +51,6 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
-#要用的时候复制到简介下面
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 RenKangJun is a postgraduate of school of management of Zhejiang University of Technology. His research interests include financial risk in business areas, corporate governance, and so on.
