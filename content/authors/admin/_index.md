@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 任康俊
+title: RenKangJun
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  name:浙江工业大学
+  name: Zhejiang University of Technology
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
