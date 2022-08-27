@@ -18,11 +18,11 @@ bio: My research interests include financial risk in business areas, corporate g
 
 # Interests to show in About widget
 interests:
-  - Financial Risk
-  - Director Networks
+  - Corporate Finance
+  - Corporate Financial Risk
   - Corporate Governance
-  - Data Analysis
-  - Table Tennis
+  - Director Networks
+  - Data Mining & Analysis
 
 # Education to show in About widget
 education:
@@ -30,12 +30,13 @@ education:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
+
 #    - course: BSc in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2008
+    - course: Postgraduate in Business Management
+      institution: Zhejiang University of Technology
+      year: yet
     - course: Bachelor in Financial Management
       institution: Jiangxi Agriculture University
       year: 2019
@@ -64,6 +65,4 @@ highlight_name: true
 ---
 
 RenKangJun is a postgraduate of school of management of Zhejiang University of Technology. His research interests include financial risk in business areas, corporate governance, and so on.
-
-任康俊，浙江工业大学管理学院研究生。研究方向为企业融资风险与公司治理等。
 
