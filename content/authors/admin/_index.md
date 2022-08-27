@@ -1,7 +1,8 @@
 ---
 # Display name
-title: RenKangJun 
-		(任康俊)
+title: 
+  - RenKangJun 
+  - 任康俊
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,9 +12,10 @@ role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Zhejiang University of Technology 
-					浙江工业大学
-    url: http://www.zjut.edu.cn/
+  name: 
+  - Zhejiang University of Technology 
+  - 浙江工业大学
+  url: http://www.zjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -54,10 +56,12 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+#要用的时候复制到简介下面
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 RenKangJun is a postgraduate of school of management of Zhejiang University of Technology. His research interests include financial risk in business areas, corporate governance, and so on.
 
 任康俊，浙江工业大学管理学院研究生。研究方向为企业融资风险与公司治理等。
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
