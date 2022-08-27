@@ -34,14 +34,12 @@ content:
     postcode: '310023'
     country: P.R. China
     country_code: CHN
-    - '浙江省杭州市留和路288号浙江工业大学屏峰校区'
   coordinates:
     latitude: '120.2'
     longitude: '30.3'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Workday 9:00 to 17:00 BeiJing time'
-    - '工作日 北京时间 9:00 - 17:00 '
+    - 'Beijing Time 9:00 - 17:00 '
 #  appointment_url: 'https://calendly.com'
 #  contact_links:
 #    - icon: twitter
