@@ -13,7 +13,7 @@ organizations:
   name: Zhejiang University of Technology
 
 # Short bio (displayed in user profile at end of posts)
- bio: My research interests include financial risk in business areas, corporate governance, and so on.
+# bio: My research interests include financial risk in business areas, corporate governance, and so on.
 
 # Interests to show in About widget
 interests:
