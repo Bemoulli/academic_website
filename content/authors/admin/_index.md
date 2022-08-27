@@ -1,8 +1,6 @@
 ---
 # Display name
-title: 
-  - RenKangJun 
-  - 任康俊
+title: 任康俊
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,13 +10,11 @@ role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  name: 
-  - Zhejiang University of Technology 
-  - 浙江工业大学
+  name:浙江工业大学
   url: http://www.zjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -39,10 +35,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'renkangjun163@163.com'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'renkangjun163@163.com'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
