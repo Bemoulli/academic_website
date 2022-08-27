@@ -10,7 +10,8 @@ role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  name: Zhejiang University of Technology
+  - name: Zhejiang University of Technology
+    url: http://www.zjut.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial risk in business areas, corporate governance, and so on.
@@ -26,6 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
     - course: Bachelor in Financial Management
       institution: Jiangxi Agriculture University
       year: 2019
@@ -34,7 +44,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
+# social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'renkangjun163@163.com'

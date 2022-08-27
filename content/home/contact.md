@@ -34,16 +34,20 @@ content:
     postcode: '310023'
     country: P.R. China
     country_code: CHN
+  coordinates:
+    latitude: '120.2'
+    longitude: '30.3'
+
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Beijing Time 9:00 - 17:00 '
+    - 'Beijing Time 9:00 - 17:00'
 #  appointment_url: 'https://calendly.com'
 #  contact_links:
 #    - icon: twitter
 #      icon_pack: fab
 #      name: DM Me
 #      link: 'https://twitter.com/Twitter'
- #   - icon: video
+#   - icon: video
 #      icon_pack: fas
 #      name: Zoom Me
 #      link: 'https://zoom.com'
