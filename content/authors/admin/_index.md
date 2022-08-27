@@ -1,16 +1,18 @@
 ---
 # Display name
-title: RenKangJun (任康俊)
+title: RenKangJun 
+		(任康俊)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate of Zhejiang University of Technology
+role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Zhejiang University of Technology (浙江工业大学)
+  - name: Zhejiang University of Technology 
+					浙江工业大学
     url: http://www.zjut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
